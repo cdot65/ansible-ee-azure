@@ -36,7 +36,7 @@ poetry shell
 build the container image with
 
 ```bash
-ansible-builder build --tag registry.gitlab.com/cremsburg/ansible-ee-nautobot-inventory
+ansible-builder build --tag (please insert the name of your container image here)
 ```
 
 ## Upload container image
